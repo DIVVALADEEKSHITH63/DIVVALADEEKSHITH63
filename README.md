@@ -1,5 +1,8 @@
 # 💫 About Me:
-Hi 👋 I'm Deekshith, an ECE student with a strong interest in frontend development and AI.  <br>I enjoy building modern, user-friendly web interfaces and continuously improving my coding skills.  <br>Currently focused on learning React, Python, and applying AI concepts through real-world projects.<br>
+Hi 👋 I'm Deekshith, an ECE student with a strong interest in frontend development and AI.  
+I enjoy building modern, user-friendly web interfaces and continuously improving my coding skills.  
+Currently, I’m focused on learning React, Python, and applying AI concepts through real-world projects.
+
 
 
 ## 🌐 Socials:
