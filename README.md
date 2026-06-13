@@ -84,9 +84,7 @@ const deekshith = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIVVALADEEKSHITH63&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5B0&text_color=FFFFFF&langs_count=8" width="45%"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=DIVVALADEEKSHITH63&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5B0&icon_color=0A66C2&text_color=FFFFFF&hide=contribs,prs,issues,stars" width="47%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIVVALADEEKSHITH63&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5B0&text_color=FFFFFF&langs_count=8" width="60%"/>
 
 </div>
 
@@ -97,16 +95,6 @@ const deekshith = {
 <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DIVVALADEEKSHITH63&bg_color=0D1117&color=00E5B0&line=0A66C2&point=FFFFFF&area=true&area_color=0A66C2&hide_border=true)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=DIVVALADEEKSHITH63&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)
 
 </div>
 
